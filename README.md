@@ -6,7 +6,7 @@ Account Creation: Users can open bank accounts by providing their personal infor
 Balance Inquiry: Users can check the balance of their accounts.
 Cash In: Users can deposit funds into their accounts.
 Balance Transfer: Users can transfer funds between different accounts.
-Account Information Update: Users can update their account holder name and address.
+Account Information Update: Users can update their account holder's name and address.
 Employee Management: The system allows for adding employees to the bank.
 
 **Getting Started**
@@ -17,7 +17,7 @@ An integrated development environment (IDE) such as IntelliJ or Eclipse (optiona
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/bank-management-system.git
+git clone https://github.com/labib-bm/bank-management-system.git
 
 * Open the project in your preferred IDE or compile the source code manually using the command line.
 * Build the project to compile the code.
