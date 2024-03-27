@@ -1,13 +1,12 @@
 # Bank-Management-System
-This is a Bank Management System implemented in Java. It allows users to perform various banking operations such as opening accounts, checking balances, making cash deposits and withdrawals, transferring funds between accounts, and updating account information.
+This is a Bank Management System implemented in Java. It allows users to perform different banking operations (i.e. opening bank accounts, checking bank balances, cash deposits and cash withdrawals, fund transfers to another account, and account information updates).
 
-Features
-Account Creation: Users can open bank accounts by providing their personal information.
-Balance Inquiry: Users can check the balance of their accounts.
-Cash In: Users can deposit funds into their accounts.
-Balance Transfer: Users can transfer funds between different accounts.
-Account Information Update: Users can update their account holder's name and address.
-Employee Management: The system allows for adding employees to the bank.
+* Features Account Creation: The user can open bank accounts by providing their personal information.
+* Balance Inquiry: Users can check the balance of their accounts.
+* Cash In: Users can deposit funds into their accounts.
+* Balance Transfer: Users can transfer funds between different accounts.
+* Account Information Update: Users can update their account holder's name and address.
+* Employee Management: The system allows for adding employees to the bank.
 
 **Getting Started**
 
